@@ -1,6 +1,10 @@
+.site-title {
+	color: #ff8c00;
+}
+
 body {
 	font-family: 'Arial', sans-serif;
-	background-color: #e8ae35;
+	background-color: #fee5af;
 	text-align: center;
 	padding: 50px;
 }
@@ -22,7 +26,7 @@ body {
 	color: white;
 	border: none;
 	border-radius: 5px;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 #draw-card-btn:hover {
